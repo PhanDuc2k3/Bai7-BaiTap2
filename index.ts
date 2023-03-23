@@ -31,9 +31,9 @@ class ToDo {
   
   const todoList = new ToDoList([]);
   
-  const todo1 = new ToDo('2023-03-23', ['Work 1', 'Work 2']);
-  const todo2 = new ToDo('2023-03-24', ['Work 3', 'Work 4']);
-  const todo3 = new ToDo('2023-03-23', ['Work 5', 'Work 6']);
+  const todo1 = new ToDo('21/3', ['DaBong', 'LamBT']);
+  const todo2 = new ToDo('22/3', ['DiHoc', 'DiHoc']);
+  const todo3 = new ToDo('23/3', ['DiHoc', 'XemPhim']);
   
   todoList.addTodoList(todo1);
   todoList.addTodoList(todo2);
